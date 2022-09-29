@@ -34,7 +34,7 @@
 		<div class="flex flex-col pr-8">
 			<h1 class="mb-3 text-3xl font-bold tracking-tight text-black dark:text-white md:text-5xl">
 				<span
-					class="relative ml-2 inline-block before:absolute before:-inset-1 before:block before:-skew-y-3 before:bg-gray-900 dark:before:bg-gray-50"
+					class="relative ml-2 inline-block before:absolute before:-inset-1 before:block before:-skew-y-3 before:bg-black dark:before:bg-gray-50"
 				>
 					<span class="relative skew-y-3 text-gray-50 dark:text-gray-900">{SITE_TITLE}</span>
 				</span>
@@ -43,7 +43,7 @@
 				{SITE_DESCRIPTION}
 			</h2>
 		</div>
-		<img src="./pragya.jpg" alt="Pragya Goyal" class="w-64 h-64 rounded-full mb-8 sm:mb-0 mr-auto bg-cyan-300 bg-opacity-25"/>
+		<img src="./pragya.png" alt="Pragya Goyal" class="w-64 h-64 rounded-full mb-8 sm:mb-0 mr-auto bg-transparent drop-shadow-2xl"/>
 	</div>
 
 	<section class="mb-16 w-full">
