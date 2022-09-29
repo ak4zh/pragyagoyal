@@ -51,7 +51,7 @@
 			Featured Posts
 		</h3>
 		<div class="flex flex-col gap-6 md:flex-row">
-			<FeatureCard title="My first post" href="/1" stringData="Jan 2022" />
+			<FeatureCard title="Human readable: Farm Law" href="/eli5-farm-law" stringData="Jan 2022" />
 			<FeatureCard
 				title="Something else"
 				href="/2"

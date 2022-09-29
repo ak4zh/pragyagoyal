@@ -1,5 +1,5 @@
 export const SITE_URL = 'https://pragyagoyal.vercel.app';
-export const APPROVED_POSTERS_GH_USERNAME = ['pragyagoyal'];
+export const APPROVED_POSTERS_GH_USERNAME = ['ak4zh', 'pragyagoyal'];
 export const GH_USER_REPO = 'ak4zh/pragyagoyal'; // used for pulling github issues and offering comments
 export const SITE_TITLE = 'Pragya Goyal';
 export const SITE_DESCRIPTION = "Everyone has a right to fight for their right";
